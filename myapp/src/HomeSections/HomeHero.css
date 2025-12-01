@@ -1,0 +1,24 @@
+.home-section {
+  background-color: #f2f2f2; 
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  padding: 60px 0;
+}
+
+.small-text {
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.hero-watch {
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+
+  background-color: #f2f2f2; 
+  border-radius: 50%;        
+  padding: 40px;              
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); 
+}

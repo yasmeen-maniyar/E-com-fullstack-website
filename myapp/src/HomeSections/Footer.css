@@ -1,0 +1,36 @@
+.site-footer {
+  background: #f1f1f1;
+  border-top: 1px solid #ddd;
+}
+
+.footer-logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #555;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #000;
+}
+
+.newsletter-form input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  outline: none;
+}
+
+.newsletter-form input:focus {
+  border-color: #000;
+}

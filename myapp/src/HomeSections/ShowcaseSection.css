@@ -1,0 +1,17 @@
+.showcase-section {
+  background: 
+    linear-gradient(
+      rgba(0,0,0,0.05),   
+      rgba(0,0,0,0.1)   
+    ),
+    #f5f5f5; 
+  padding: 80px 0;
+}
+
+.showcase-img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}

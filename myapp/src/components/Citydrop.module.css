@@ -1,0 +1,17 @@
+.ulstyle{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 38%;
+    background-color: white;
+    border: 1px solid black;
+    max-height: 10rem;
+    overflow-y: scroll;
+}
+
+.listyle{
+    padding: 8px;
+    cursor: pointer;
+    border-bottom: 1x solid #eee;
+}

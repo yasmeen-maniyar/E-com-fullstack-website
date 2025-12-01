@@ -1,0 +1,26 @@
+.grid-box {
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  padding: 20px 20px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.grid-box:hover {
+  transform: translateY(-5px);
+}
+
+.short-box {
+  height: 250px;
+}
+
+.tall-box {
+  height: 400px;
+}
+
+.grid-img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  
+}
